@@ -1,0 +1,47 @@
+.ml-5 {
+  margin-left: 5px;
+}
+
+.mt-5 {
+  margin-top: 5px;
+}
+
+.done {
+  color: silver;
+  text-decoration: line-through;
+}
+
+input[type='date'].disabled::-webkit-inner-spin-button {
+  display: none;
+}
+
+.content {
+  overflow: auto;
+  height:800px;
+}
+
+div.footer-copyright {
+  text-align: center;
+}
+
+.page-footer{
+  background-color:#461D4B ;
+  border-radius: 0px 0px 15px 15px;
+}
+
+
+nav {
+  background-color:#DBA8DE ;
+  border-radius: 15px 15px 0px 0px;
+}
+button.btn.red {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border-radius: 15px 15px 15px 15px;
+}
+.row .col.offset-s10{
+  margin-bottom: 20px;
+  border-radius: 15px 15px 15px 15px;
+  background-color: #549EFF;
+}
+
